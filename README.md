@@ -1,7 +1,3 @@
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <h1 align="left">Hi there 👋</h1>
 
 ###
